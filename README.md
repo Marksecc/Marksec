@@ -21,7 +21,7 @@
 # 🧠 About Me
 
 ```diff
-+ Cybersecurity Specialist
++ Cybersecurity Engineer
 + Red Team / CTF Player
 + Signals NCO (Air Forces)
 + Digital Marketing Strategist
